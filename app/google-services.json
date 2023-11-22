@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202199695443",
+    "project_id": "android-camp-6c09f",
+    "storage_bucket": "android-camp-6c09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202199695443:android:2ef0e474fe24bfaa4906a6",
+        "android_client_info": {
+          "package_name": "com.example.androidbootcamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjr_NfuziR7R2I26Jztecv9f3RY2_O0Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
